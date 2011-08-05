@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
    <description name="ChookApp plugins">
+      
    </description>
-   <feature url="features/com.chookapp.org.OverviewRulerBackground_1.0.0.201108051231.jar" id="com.chookapp.org.OverviewRulerBackground" version="1.0.0.201108051231">
+   <feature url="features/com.chookapp.org.OverviewRulerBackground_1.0.0.201108052020.jar" id="com.chookapp.org.OverviewRulerBackground" version="1.0.0.201108052020">
       <category name="chookapp_categoty"/>
    </feature>
    <category-def name="chookapp_categoty" label="ChookApp"/>
