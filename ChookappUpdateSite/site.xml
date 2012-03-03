@@ -6,13 +6,13 @@
    <feature url="features/com.chookapp.org.OverviewRulerBackground_1.1.0.201112231228.jar" id="com.chookapp.org.OverviewRulerBackground" version="1.1.0.201112231228">
       <category name="chookapp_categoty"/>
    </feature>
-   <feature url="features/com.chookapp.org.Bracketeer_1.1.0.201201211207.jar" id="com.chookapp.org.Bracketeer" version="1.1.0.201201211207">
+   <feature url="features/com.chookapp.org.Bracketeer_1.2.0.201203031719.jar" id="com.chookapp.org.Bracketeer" version="1.2.0.201203031719">
       <category name="chookapp_categoty"/>
    </feature>
-   <feature url="features/com.chookapp.org.BracketeerCDT_1.1.0.201201211207.jar" id="com.chookapp.org.BracketeerCDT" version="1.1.0.201201211207">
+   <feature url="features/com.chookapp.org.BracketeerCDT_1.2.0.201203031719.jar" id="com.chookapp.org.BracketeerCDT" version="1.2.0.201203031719">
       <category name="chookapp_categoty"/>
    </feature>
-   <feature url="features/com.chookapp.org.BracketeerJDT_1.1.0.201201211207.jar" id="com.chookapp.org.BracketeerJDT" version="1.1.0.201201211207">
+   <feature url="features/com.chookapp.org.BracketeerJDT_1.2.0.201203031719.jar" id="com.chookapp.org.BracketeerJDT" version="1.2.0.201203031719">
       <category name="chookapp_categoty"/>
    </feature>
    <category-def name="chookapp_categoty" label="ChookApp"/>
